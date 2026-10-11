@@ -127,9 +127,6 @@ Mall-Detective/
 ├── Mall_Detective_Analysis.xlsx
 ├── Mall_Detective_SQL_Queries.sql
 ├── Mall_Detective_PowerBI.pbix
-└── screenshots/
-    └── mall_overview.png
+└── mall_overview.png
 ```
-
-*Keep only files that you actually add to the repository. The screenshot folder is optional.*
 
